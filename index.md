@@ -1,6 +1,6 @@
-# Philip maphey
 
-_Useful Links_  [LinkedIn Profile](https://www.linkedin.com/in/philip-maphey-65b574229/)
+
+_Useful Links_ - [LinkedIn Profile](https://www.linkedin.com/in/philip-maphey-65b574229/)
 ## About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
