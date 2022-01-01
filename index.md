@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Phllip Maphey
 
 You can use the [editor on GitHub](https://github.com/pamaph20/pamaph20.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
